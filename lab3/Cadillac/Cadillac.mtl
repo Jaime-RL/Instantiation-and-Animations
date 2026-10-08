@@ -1,0 +1,333 @@
+# 3ds Max Wavefront OBJ-Export v0.97b - (c)2007 guruware
+# Datei erstellt: 05.08.2024 13:22:29
+
+newmtl Material__46teppich_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka leather03.tga
+	map_Kd leather03.tga
+
+newmtl karosse_m_pbrmetal
+	Ns 0.5000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8431 0.8431 0.8431
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.0588 0.0588 0.0588
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Pink.tga
+	map_Kd Pink.tga
+	map_bump -bm 0.3000 Map__319_Normalen_Relief.tga
+
+newmtl Material_emblem001_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chevy04.tga
+	map_Kd chevy04.tga
+
+newmtl chrom_m_pbrmetal
+	Ns 67.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8431 0.8431 0.8431
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka brushed-metal01_albedo.tga
+	map_Kd brushed-metal01_albedo.tga
+	map_bump -bm 0.3000 Map__57_Normalen_Relief.tga
+
+newmtl Material_schwarzes_leder_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka bogey dust.tga
+	map_Kd bogey dust.tga
+
+newmtl _caddy_devillegfxs_m_onetex
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6667 0.3961 0.0471
+	Kd 0.6667 0.3961 0.0471
+	Ks 0.0510 0.0510 0.0510
+	Ke 0.0000 0.0000 0.0000
+	map_Ka lampafram.tga
+	map_Kd lampafram.tga
+
+newmtl Material_helles_leder_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka leather79bhw.tga
+	map_Kd leather79bhw.tga
+
+newmtl material_chrom_m_reflect
+	Ns 67.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8431 0.8431 0.8431
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka brushed-metal01.tga
+	map_Kd brushed-metal01.tga
+	map_refl url.tga
+
+newmtl Material__emblem02_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka chevy03.tga
+	map_Kd chevy03.tga
+
+newmtl Material__felge_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka weisswandraifen.tga
+	map_Kd weisswandraifen.tga
+
+newmtl Material_lauffl_m_tbumptex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka tread_tm.tga
+	map_Kd tread_tm.tga
+	map_bump tread_tm_nm.tga
+	bump tread_tm_nm.tga
+
+newmtl Material__94boden_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka bottom.tga
+	map_Kd bottom.tga
+
+newmtl material_lampen01_m_reflect
+	Ns 67.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8431 0.8431 0.8431
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka db9 brakelight.tga
+	map_Kd db9 brakelight.tga
+	map_refl url.tga
+
+newmtl material_lampen_m_reflect
+	Ns 67.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8431 0.8431 0.8431
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka lampafram.tga
+	map_Kd lampafram.tga
+	map_refl url.tga
+
+newmtl Material__95nummernsch_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka kennzeichenus.tga
+	map_Kd kennzeichenus.tga
+
+newmtl Material_weisses_leder_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka leder_beige.tga
+	map_Kd leder_beige.tga
+
+newmtl Material_braunes_leder_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka leder_rot.tga
+	map_Kd leder_rot.tga
+
+newmtl Material__95rotes_leder_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka leder_rotv.tga
+	map_Kd leder_rotv.tga
+
+newmtl Material_dunkles_leder_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka leather03.tga
+	map_Kd leather03.tga
+
+newmtl mb_glas_m_pbrmetal
+	Ns 67.0000
+	Ni 1.5000
+	d 0.6500
+	Tr 0.3500
+	Tf 0.6500 0.6500 0.6500 
+	illum 2
+	Ka 0.5098 0.6078 0.6353
+	Kd 0.5098 0.6078 0.6353
+	Ks 0.5059 0.5608 0.6157
+	Ke 0.0000 0.0000 0.0000
+	map_Ka glass_albedo.tga
+	map_Kd glass_albedo.tga
+	map_bump -bm 0.3000 Map__54_Normalen_Relief.tga
+
+newmtl Material__95salon1_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka salon1.tga
+	map_Kd salon1.tga
+
+newmtl Material__95salon2_m_onetex
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7569 0.7569 0.7569
+	Kd 0.7569 0.7569 0.7569
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka salon2.tga
+	map_Kd salon2.tga
+
+newmtl material_lack_m_reflect
+	Ns 55.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7176 0.7176 0.7176
+	Kd 0.7176 0.7176 0.7176
+	Ks 0.0902 0.0902 0.0902
+	Ke 0.0000 0.0000 0.0000
+	map_Ka rosaSchatten.tga
+	map_Kd rosaSchatten.tga
+	map_refl url.tga
