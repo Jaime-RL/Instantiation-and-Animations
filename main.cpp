@@ -70,12 +70,12 @@ struct obj* cubemap;
 // OBJ LOADER LIBRARY INCLUDE
 #include "lab3/obj-4.h"
 
-// ABSOLUTE PATHS FOR OBJ FILES
-const char* CAR_MODEL_ROUTE = "C:/Users/jaime/source/repos/DVA338_Lab3/DVA338_Lab2/lab3/Cadillac/cadillac.obj";
-const char* ROAD_MODEL_ROUTE = "C:/Users/jaime/source/repos/DVA338_Lab3/DVA338_Lab2/lab3/RoadSkybox/road.obj";
-const char* LAMP_MODEL_ROUTE = "C:/Users/jaime/source/repos/DVA338_Lab3/DVA338_Lab2/lab3/RoadSkybox/lamp.obj";
-const char* DESERT_MODEL_ROUTE = "C:/Users/jaime/source/repos/DVA338_Lab3/DVA338_Lab2/lab3/RoadSkybox/desert.obj";
-const char* CUBEMAP_MODEL_ROUTE = "C:/Users/jaime/source/repos/DVA338_Lab3/DVA338_Lab2/lab3/RoadSkybox/cubemap.obj";
+// PATHS FOR OBJ FILES (relative to the project folder, used as working directory)
+const char* CAR_MODEL_ROUTE = "lab3/Cadillac/Cadillac.obj";
+const char* ROAD_MODEL_ROUTE = "lab3/RoadSkybox/road.obj";
+const char* LAMP_MODEL_ROUTE = "lab3/RoadSkybox/lamp.obj";
+const char* DESERT_MODEL_ROUTE = "lab3/RoadSkybox/desert.obj";
+const char* CUBEMAP_MODEL_ROUTE = "lab3/RoadSkybox/cubemap.obj";
 
 // CAR INSTANCE STRUCTURE (Currently unused)
 typedef struct {
